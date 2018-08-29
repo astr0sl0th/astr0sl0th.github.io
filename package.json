@@ -1,0 +1,25 @@
+{
+  "name": "astr0sl0th.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astr0sl0th/astr0sl0th.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astr0sl0th/astr0sl0th.github.io/issues"
+  },
+  "homepage": "https://github.com/astr0sl0th/astr0sl0th.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-watch": "^4.3.6"
+  }
+}
